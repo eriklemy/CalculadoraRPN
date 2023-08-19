@@ -2,7 +2,7 @@
  * Linguagens Formais e Compiladores - LFC
  * ALUNO: Erick Lemmy dos Santos Oliveira
  * PROF: Frank Alcantara
- *
+ * GIT: https://github.com/eriklemy/CalculadoraRPN
 // --------------------------------------------------------------------------------------------------------
 ENUNCIADO:
 	Seu objetivo será desenvolver um programa, no ambiente online Repl.it, usando Python, C, ou C++, capaz 

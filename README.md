@@ -61,6 +61,7 @@ Suponha que você tenha um arquivo chamado `expressoes.txt` com o seguinte conte
 (+ 5 3)
 (* 2 4) 
 (/ 3 2)
+(+ 3.1 (- 4.0 5.1))
 ```
 
 Você pode executar o programa da seguinte forma:
@@ -75,6 +76,7 @@ O programa calculará as expressões e exibirá os resultados:
 L1: 8.0
 L2: 8.0
 L3: 1.5
+L4: 2.0
 ```
 
 Os resultados das expressões são exibidos no formato "Lx: resultado", onde "x" é o número da linha da expressão no arquivo de entrada.
